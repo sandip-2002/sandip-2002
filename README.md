@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Reinforcement Learning, JavaScript**
 
-- 📫 How to reach me **sandiproy03062002@gmail.com**
+- 📫 How to reach me **s8272r@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1TZ2v5zLg6RuncnSuxqwGtWok4l4vM080/view?usp=sharing](https://drive.google.com/file/d/1TZ2v5zLg6RuncnSuxqwGtWok4l4vM080/view?usp=sharing)
 
