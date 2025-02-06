@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **s8272r@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TZ2v5zLg6RuncnSuxqwGtWok4l4vM080/view?usp=sharing](https://drive.google.com/file/d/1TZ2v5zLg6RuncnSuxqwGtWok4l4vM080/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sandip-roy-26485a1b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandip-roy-26485a1b7" height="30" width="40" /></a>
