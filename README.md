@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sandip Roy</h1>
-<h3 align="center">I am Salesforce & Frontend Developer</h3>
+<h3 align="center">I am a Salesforce & Frontend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzgzMTVjYmUxYTJhMGQ4ZDFjMmM2MzU1MDUwODAwNzI1MTkxYTk3OCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/2IudUHdI075HL02Pkk/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandip-2002&label=Profile%20views&color=0e75b6&style=flat" alt="sandip-2002" /> </p>
 
